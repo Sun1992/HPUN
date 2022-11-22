@@ -24,7 +24,8 @@ Since we have licensed the patent, we cannot release the training code and pretr
 The results are on google drive:
 https://drive.google.com/file/d/1JTDdUSKdbWm3GpE8RBq590zdRWxAyixw/view?usp=sharing
 
-Please put the results to SR/BI/
+Please create a dir SR/BI/ and put the results to SR/BI/
+
 
 The GT HR images are on google drive:
 https://drive.google.com/file/d/1F4HGfTh2cnzPiBjRAJloqHPI7fz1mHqA/view?usp=sharing
