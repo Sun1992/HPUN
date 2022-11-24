@@ -2,9 +2,9 @@
 This repo is the official results of the paper:
 Hybrid Pixel-Unshuffled Network for Lightweight Image Super-Resolution
 
-First Author: Bin Sun
+Authors: Bin Sun, Yulun Zhang, Songyao Jiang, Yun Fu
 
-Email: sun.bi@northeastern.edu
+Contact Email: sun.bi@northeastern.edu
 
 The preprinted version is: https://arxiv.org/abs/2203.08921
 
