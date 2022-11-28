@@ -30,7 +30,7 @@ Please create a dir SR/BI/ and put the results to SR/BI/
 The GT HR images are on google drive:
 https://drive.google.com/file/d/1F4HGfTh2cnzPiBjRAJloqHPI7fz1mHqA/view?usp=sharing
 
-Please put the results to the directory and upzip the file
+Please put the results to the directory and unzip the file
 
 We have sucessfully deployed model on iPhone Xs Max. The real-time demo is shown below:
 
