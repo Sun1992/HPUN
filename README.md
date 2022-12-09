@@ -1,4 +1,4 @@
-# HPUN (Hybrid-Pixel-Unshuffle-Network)
+# Hybrid Pixel-Unshuffled Network for Lightweight Image Super-Resolution(HPUN)
 This repo is the official results of the paper:
 Hybrid Pixel-Unshuffled Network for Lightweight Image Super-Resolution
 
